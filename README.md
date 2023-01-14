@@ -16,3 +16,13 @@
 Here You Can Dowload Some Latetest and Useful Plugins
 
 ---
+
+Installation of Plugins
+Copy any external plugin url and send in whatsapp chat 
+
+Copy any external plugin url and send in whatsapp chat ***.install gist url***
+
+```
+.install https://gist.githubusercontent.com/updatingaftersetup
+
+```
